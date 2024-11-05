@@ -1,0 +1,20 @@
+.DS_Store
+node_modules
+/package
+.env
+.env.*
+!.env.example
+
+# ignore build
+.next
+.nuxt
+.svelte-kit
+build
+dist
+output
+
+
+# Ignore files for PNPM, NPM and YARN
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
