@@ -1,6 +1,11 @@
 # editorconfig
 기본적으로 범용적으로 사용 : .editorconfig
 
+# pretter 사용 전 prettier 설치
+```shell
+npm install --save-dev prettier
+```
+
 # prettier 옵션
 **prettier.config.js** 파일 내용안에 주석이 달려 있음
 
