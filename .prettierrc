@@ -20,5 +20,10 @@
         "parser": "vue" 
       } 
     }
-  ]
+  ],
+  "htmlWhitespaceSensitivity": "ignore",
+  "vueIndentScriptAndStyle": true,
+  "jsxSingleQuote": false,
+  "bracketSameLine": false,
+  "singleAttributePerLine": false
 }
